@@ -781,10 +781,8 @@ public class SearchView extends FrameLayout implements View.OnClickListener {
     }
 
     private void hideClearTextIcon() {
-        if (mUserQuery.length() == 0) {
-            mEmptyImageView.setVisibility(View.GONE);
-            checkVoiceStatus(true);
-        }
+        mEmptyImageView.setVisibility(View.GONE);
+        checkVoiceStatus(true);
     }
 
     private void showClearTextIcon() {
