@@ -1,4 +1,4 @@
-package com.lapism.searchview;
+package org.ligboy.android.searchview;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -39,6 +39,8 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.lapism.searchview.R;
 
 import java.util.List;
 

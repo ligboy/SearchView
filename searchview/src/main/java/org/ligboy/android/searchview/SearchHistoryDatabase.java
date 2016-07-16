@@ -1,4 +1,4 @@
-package com.lapism.searchview;
+package org.ligboy.android.searchview;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

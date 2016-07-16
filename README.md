@@ -60,7 +60,7 @@ dependencies {
 
 **XML:**
 ```xml
-<com.lapism.searchview.SearchView
+<org.ligboy.android.searchview.SearchView
     android:id="@+id/searchView"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />

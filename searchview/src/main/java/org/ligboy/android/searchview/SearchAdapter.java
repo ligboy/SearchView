@@ -1,4 +1,4 @@
-package com.lapism.searchview;
+package org.ligboy.android.searchview;
 
 import android.content.Context;
 import android.graphics.PorterDuff;
@@ -15,6 +15,8 @@ import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.lapism.searchview.R;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,10 @@
-package com.lapism.searchview;
+package org.ligboy.android.searchview;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.text.TextUtils;
+
+import com.lapism.searchview.R;
 
 
 public class SearchItem implements Parcelable {

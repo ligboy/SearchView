@@ -1,4 +1,4 @@
-package com.lapism.searchview;
+package org.ligboy.android.searchview;
 
 import android.animation.Animator;
 import android.annotation.TargetApi;
@@ -9,6 +9,8 @@ import android.view.ViewAnimationUtils;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
+
+import com.lapism.searchview.R;
 
 
 class SearchAnimator {

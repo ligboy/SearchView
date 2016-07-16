@@ -18,10 +18,6 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.lapism.searchview.SearchAdapter;
-import com.lapism.searchview.SearchHistoryTable;
-import com.lapism.searchview.SearchItem;
-import com.lapism.searchview.SearchView;
 import com.lapism.searchview.sample.R;
 import com.lapism.searchview.sample.activity.AboutActivity;
 import com.lapism.searchview.sample.activity.MenuItemActivity;
@@ -30,6 +26,11 @@ import com.lapism.searchview.sample.activity.ToggleActivity;
 import com.lapism.searchview.sample.activity.ToolbarActivity;
 import com.lapism.searchview.sample.view.FragmentAdapter;
 import com.lapism.searchview.sample.view.SearchFragment;
+
+import org.ligboy.android.searchview.SearchAdapter;
+import org.ligboy.android.searchview.SearchHistoryTable;
+import org.ligboy.android.searchview.SearchItem;
+import org.ligboy.android.searchview.SearchView;
 
 import java.util.ArrayList;
 import java.util.List;

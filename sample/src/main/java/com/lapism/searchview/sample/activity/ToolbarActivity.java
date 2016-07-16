@@ -11,7 +11,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.text.TextUtils;
 
-import com.lapism.searchview.SearchView;
+import org.ligboy.android.searchview.SearchView;
 import com.lapism.searchview.sample.R;
 import com.lapism.searchview.sample.base.BaseActivity;
 

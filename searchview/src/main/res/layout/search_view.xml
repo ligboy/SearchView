@@ -37,7 +37,7 @@
                     android:layout_height="match_parent"
                     android:contentDescription="@string/search_content_description" />
 
-                <com.lapism.searchview.SearchEditText
+                <org.ligboy.android.searchview.SearchEditText
                     android:id="@+id/searchEditText_input"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
@@ -57,7 +57,7 @@
                     android:windowSoftInputMode="stateAlwaysHidden">
 
                     <requestFocus />
-                </com.lapism.searchview.SearchEditText>
+                </org.ligboy.android.searchview.SearchEditText>
                 <!--
                  android:background="?android:attr/listDivider"
                     @android:color/transparent red
